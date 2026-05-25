@@ -40,6 +40,10 @@ Driven by curiosity and a strong inclination toward rigorous problem solving, I 
 
 ## 📈 Stats & Activity
 
-<!-- This dynamically displays your GitHub metrics and updates automatically -->
-![Saonee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saoneenandi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saoneenandi&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saoneenandi&theme=radical&hide_border=true" alt="Saonee's GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=saoneenandi&theme=radical&column=4&margin-w=15" alt="Saonee's Trophies" />
+</p>
