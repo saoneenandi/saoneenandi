@@ -37,13 +37,3 @@ Driven by curiosity and a strong inclination toward rigorous problem solving, I 
 - **Tools & Environments:** Git, GitHub, Linux, Jupyter Notebooks, VS Code
 
 ---
-
-## 📈 Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saoneenandi&theme=radical&hide_border=true" alt="Saonee's GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=saoneenandi&theme=radical&column=4&margin-w=15" alt="Saonee's Trophies" />
-</p>
