@@ -1,6 +1,6 @@
 # Hi there, I'm Saonee Nandi 👋
 
-Senior Undergraduate in **Mathematics & Computing** at **Birla Institute of Technology, Mesra** 🎓  
+Undergraduate in **Mathematics & Computing** at **Birla Institute of Technology, Mesra** 🎓  
 📍 Ranchi, India | 📧 [imh10006.25@bitmesra.ac.in](mailto:imh10006.25@bitmesra.ac.in) | 🔗 [LinkedIn](https://www.linkedin.com/in/saonee-nandi/)
 
 ---
