@@ -14,9 +14,7 @@ My interests lie at the intersection of:
 *   **Machine Learning Theory**
 *   **Numerical Analysis & Differential Equations**
 
-I enjoy exploring how mathematical theory can be translated into computational systems to solve complex real-world problems. Currently, I am exploring **Scientific Machine Learning (SciML)**, **Physics-Informed Neural Networks (PINNs)**, and differential equation modelling using tools such as Python and PyTorch.
-
-Driven by curiosity and a strong inclination toward rigorous problem solving, I am always open to **research opportunities, academic collaborations, and intellectually challenging projects.**
+I enjoy exploring how mathematical theory can be translated into computational systems to solve complex real-world problems. Driven by curiosity and a strong inclination toward rigorous problem solving, I am always open to **research opportunities, academic collaborations, and intellectually challenging projects.**
 
 ---
 
